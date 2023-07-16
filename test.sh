@@ -3,6 +3,7 @@
 # Prompt the user for their name
 echo "What is your name?"
 
+
 # Read the user's input
 read name
 
